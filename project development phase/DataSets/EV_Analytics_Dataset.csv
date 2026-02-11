@@ -1,0 +1,21 @@
+EV_ID,Brand,Model,Year,Body_Style,Range_km,Price_Lakhs,Battery_kWh,Charging_Type,Top_Speed_kmph,City,CO2_Saved_tons
+1,Tesla,Model S,2022,Sedan,650,75,100,Fast,250,Bangalore,12.5
+2,Tesla,Model 3,2021,Sedan,580,55,82,Fast,230,Hyderabad,10.2
+3,Tata,Nexon EV,2023,SUV,465,18,40,Normal,140,Delhi,6.8
+4,Tata,Tigor EV,2022,Sedan,315,13,26,Normal,120,Mumbai,5.2
+5,Hyundai,Kona EV,2021,SUV,452,24,39,Fast,155,Chennai,7.1
+6,MG,ZS EV,2023,SUV,461,22,44,Fast,160,Pune,7.5
+7,BYD,Atto 3,2023,SUV,521,34,60,Fast,170,Bangalore,8.9
+8,Kia,EV6,2022,Crossover,528,60,77,Fast,260,Delhi,11.0
+9,Mercedes,EQS,2023,Sedan,770,155,107,Fast,250,Mumbai,15.6
+10,Audi,e-tron,2022,SUV,436,125,95,Fast,200,Hyderabad,13.1
+11,Renault,Zoe,2021,Hatchback,390,20,52,Normal,135,Chennai,6.3
+12,Nissan,Leaf,2020,Hatchback,385,28,40,Normal,150,Pune,6.0
+13,Tesla,Model X,2022,SUV,560,95,100,Fast,240,Bangalore,12.9
+14,Tata,Punch EV,2024,Hatchback,320,12,25,Normal,110,Delhi,4.8
+15,MG,Comet EV,2023,Hatchback,230,8,17,Normal,100,Mumbai,3.5
+16,Volvo,XC40 Recharge,2022,SUV,418,56,78,Fast,180,Hyderabad,9.0
+17,Hyundai,Ioniq 5,2023,Crossover,631,46,72,Fast,185,Chennai,10.8
+18,Skoda,Enyaq,2023,SUV,535,58,82,Fast,190,Pune,11.2
+19,Volkswagen,ID4,2022,SUV,520,54,77,Fast,195,Bangalore,10.5
+20,Tesla,Model Y,2023,SUV,505,70,75,Fast,217,Delhi,11.7
